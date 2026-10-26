@@ -3,6 +3,8 @@ def get_client():
 
 from ollama import Client
 
+#uiuiuiuii
+
 # Создаем клиента с таймаутом в 5 минут (300 секунд)
 #client = Client(timeout=300.0)
 #client = Client(trust_env=False)
