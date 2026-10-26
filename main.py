@@ -3,7 +3,7 @@ def get_client():
 
 from ollama import Client
 
-#uiuiuiuii
+#Должна быть запущена Ollama с установленной моделью: deepseek-r1:1.5b
 
 # Создаем клиента с таймаутом в 5 минут (300 секунд)
 #client = Client(timeout=300.0)
